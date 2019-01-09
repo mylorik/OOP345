@@ -1,0 +1,15 @@
+// Name:  Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 08.11.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+This week I learned a lot of math... I am bad and complicated math, even though I am making a complicated game right now (c#, if you are very interested, it's here https://github.com/mylorik/OctoGame/tree/master/OctoGame), so
+I required a lot of help with formulas. In a programming perspective, I have learned that there is a "bug" where  "ifstream"  reads
+one line twice if there is an empty line after it. I didn't really know how to fix it without counting lines at the beginning, so I would like to hear your feedback.
+
+I learned a lot about vectors, to be precise - member functions, how many of them work like "accumulate", etc. A bit practice on working with templates and reading files. 
+So, basically, a lot of math, STL's algorithms functions and practice in lambada expressions.
+

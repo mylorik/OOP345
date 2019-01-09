@@ -1,0 +1,11 @@
+// Name: Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 23.11.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+In this workshop I have practice writing and reading binary files(stream), also, it was a very small practice on multithreading.
+
+Also, it was very interesting practice on encrypting and decrypting information!

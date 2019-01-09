@@ -1,0 +1,10 @@
+// Name:  Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 02.11.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+In this workshop I have practices how to use STL containers, also array class even though using array class was pointless. 
+More practice on error handling, and polymorphic classes where we have to inherit something. And it was one more practice on working with separate files with text data. 

@@ -1,0 +1,11 @@
+// Name: Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 16.11.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+
+with this workshop, I learned that pointers can be harmless if you use smart pointers instead of raw pointers
+where you don't have to deal with memory management. Also, and a small practice on double loops.

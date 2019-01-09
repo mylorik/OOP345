@@ -1,0 +1,35 @@
+﻿.topEl {
+    background-color: blue;
+    display: block;
+    width: 100%;
+    height: 40vh;
+    padding-left: 4%;
+    padding-top: 1%;
+  
+}
+
+header .container-fluid {
+    padding: 0;
+}
+
+.elements {
+    height: 20vh;
+    width: 20vh;
+    background-color: gray;
+    display: inline-block;
+    z-index: 5;
+}
+
+.slot {
+    height: 30vh;
+}
+
+.highlighted {
+    border: 1vh solid red;
+}
+
+button {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
