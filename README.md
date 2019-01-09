@@ -1,2 +1,2 @@
 # OOP345
-Seneca College C++ Class
+Seneca College C++ Class, 3rd semester
