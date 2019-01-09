@@ -1,0 +1,16 @@
+Script started on Thu 13 Sep 2018 12:46:25 PM EDT
+]0;akulihin@mtrx-node02pd:~/oop345/ws1[?1034h[akulihin@mtrx-node02pd ws1]$ ws oop345 btp305
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws oop345 btp305 
+Maximum number of characters stored: 3
+0: oop
+1: btp
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;akulihin@mtrx-node02pd:~/oop345/ws1[akulihin@mtrx-node02pd ws1]$ exit
+exit
+
+Script done on Thu 13 Sep 2018 12:46:33 PM EDT

@@ -1,0 +1,18 @@
+// Name: Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 02.12.2018
+//
+// I confirm that I am the only author of this file
+// and the content was created entirely by me.
+
+I really liked this project over previous classes as this one was much more step by step.
+
+It was a great practice in OOP, that is the point of the course I guess. 
+I didn't like that some member function said to be made without "const", means we can get some vulnerability, but this course is about programming, not security. 
+
+The hardest part was MS1 as there were some stuff required for next MS and don't need right now, so I was confused about how it should work. Because of that, I had to come back to previous MS when I moved to the next one few times.
+
+aside from that, the project was pretty easy, easier than the previous class, maybe just because we know programming better now.
+
+the last thing I wanted to say - Thank you Cornel for the nice feedback about my first programs Because of your feedback I knew exactly what I should do next, other teachers don't do that, I would say you are the best from all I have seen in terms of teaching programming . 
