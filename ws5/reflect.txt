@@ -1,0 +1,12 @@
+// Name: Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 2018-10-12
+//
+// I confirm that the content of this file is created by me, 
+// with the exception of the parts provided to me by my professor.
+
+
+In this workshop I have practiced using lambada expression, more practice on working with files, try-catch and throw expression, templates and also prevent the copying, moving and assigning of an object.
+Nothing from it was new to me, except preventing copying, moving and assigning, I hope I did it correctly as I am not sure that `=delete` works as I think.
+The most important thing is practice working with files, it's pretty complicated process even though it looks like it's not.

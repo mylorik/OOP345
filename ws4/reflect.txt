@@ -1,0 +1,12 @@
+// Name:  Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 05.10.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+
+In this workshop, I did not learn anything completely new. Just a practice how to read files, how to parse it into an object we will be using later on.
+Also, like in the last workshop, this workshop teaches us to get used to rule of 5, creating create 5 functions: copy constructor, 
+copy assignment operator, destructor, move constructor and move assignment operator.

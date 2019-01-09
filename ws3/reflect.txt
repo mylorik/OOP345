@@ -1,0 +1,14 @@
+// Name: Artem Kulihina
+// Seneca Student ID: 128516168
+// Seneca email: akulihin@myseneca.ca
+// Date of completion: 28.09.2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+The main thing I have learned is how to use templates, such a handy thing, we can use any data type using just a single, same function,
+no need to overload it for every different type we may get.
+All the logic is pretty much the same as usual, the only weird thing is that all the logic is actually inside the header file instead of the source file. 
+
+I wasn't sure what is "the default constructor adopts a safe empty state" I am sick, so  I couldn't make to class even for a quiz, probably you did explain it there.
+I have just created a regular "default constructor" with initiator "{} setting it to `0` " and a hope that this is correct, as we do not specify the constructor at all.
